@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PhysicalTranslation xmlns:android="http://schemas.android.com/apk/res/android" QwertyTranslation="яшертыуиопасдфгчйклзхцвбнм">
+    <SequenceMapping keySequence="55,55" targetChar="ь"/>
+    <SequenceMapping keySequence="49,49" targetChar="ю"/>
+    <SequenceMapping keySequence="51,51" targetChar="щ"/>
+    <SequenceMapping keySequence="33,33" targetChar="э"/>
+    <SequenceMapping keySequence="54,54" targetChar="ж"/>
+    <SequenceMapping keySequence="56,56" targetChar="ъ"/>
+</PhysicalTranslation>

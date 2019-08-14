@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries xmlns:android="http://schemas.android.com/apk/res/android">
+    <Dictionary autoTextResourceId="@xml/russian2_autotext" description="Dictionary from AOSP" dictionaryResourceId="@array/russian2_words_dict_array" id="afd228a6-3101-4998-b9c6-1e28aecc0e7a" locale="ru" nameResId="@string/russian2_dictionary_name" type="binary_resource"/>
+</Dictionaries>
